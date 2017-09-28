@@ -5,3 +5,5 @@
 
 [Урок 9](https://a-damberg.github.io/lesson_9/ "Описание")
 
+[Урок 10](https://a-damberg.github.io/lesson_10/ "Описание")
+
