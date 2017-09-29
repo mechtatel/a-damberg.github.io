@@ -12,7 +12,7 @@
 
 [Урок 11]
 
-[Урок 12]
+[Урок 12](https://a-damberg.github.io/lesson_12/)-Хостинг от Github
 
 [Урок 13](https://a-damberg.github.io/lesson_13/)-Адаптивная верстка
 
