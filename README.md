@@ -10,7 +10,7 @@
 
 [Урок 10](https://a-damberg.github.io/lesson_11/ "Описание")-Less
 
-[Урок 11]
+[Урок 11](https://a-damberg.github.io/lesson_12-1/)-Хостинг от Сниппеты
 
 [Урок 12](https://a-damberg.github.io/lesson_12/)-Хостинг от Github
 
