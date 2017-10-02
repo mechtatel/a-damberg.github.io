@@ -20,3 +20,6 @@
 
 [Урок 15](https://a-damberg.github.io/lesson_15/)-Подключение шрифтов
 
+[Урок 16](https://a-damberg.github.io/lesson_16/)-Подключение шрифтов. Вёрстка первого экрана
+
+
