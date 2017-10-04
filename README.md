@@ -26,4 +26,7 @@
 
 [Урок 18](https://a-damberg.github.io/lesson_18/)-Эффекты при наведении и адаптив первого экрана
 
+[Урок 19](https://a-damberg.github.io/lesson_19/)-Слайдер на сайте
+
+[Урок 20](https://a-damberg.github.io/lesson_20/)-Вёрстка блока с преимуществами. Слайдер
 
