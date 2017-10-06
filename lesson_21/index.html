@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Заголовок</title>
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+   <div class="container">
+   	<button class="popup-modal" href="#test-form">Удалить файл ?</button>
+   	
+   </div>
+
+ <div id="test-modal" class="white-popup-block mfp-hide">
+	<h1>Вы действительно хотите удалить файл ?</h1>
+	<p>ДА НЕТ</p>
+	<p><a class="popup-modal-dismiss" href="#">Dismiss</a></p>
+	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+</div>
+
+<form id="test-form" class="white-popup-block mfp-hide">
+	<h1>Вы действительно хотите удалить файл ?</h1>
+	<div class="btn-box">
+		<button class="btn-style">ДА</button>
+		<button class="btn-style">НЕТ</button>
+	</div>	
+	<button title="Close (Esc)" type="button" class="mfp-close">×</button>
+</form>
+
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>    
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.magnific-popup.js"></script>
+    <script>
+    	$(document).ready(function() {
+    	  $('.image-link').magnificPopup({type:'image'});
+    	});
+    </script>
+    <script>
+    	$(function () {
+    		$('.popup-modal').magnificPopup({
+    			type: 'inline',
+    			preloader: false,
+    			focus: '#username',
+    			modal: true
+    		});
+    		$(document).on('click', '.popup-modal-dismiss', function (e) {
+    			e.preventDefault();
+    			$.magnificPopup.close();
+    		});
+    	});
+    </script>
+    <script>
+    	$(document).ready(function() {
+    		$('.popup-with-form').magnificPopup({
+    			type: 'inline',
+    			preloader: false,
+    			focus: '#name',
+
+    			// When elemened is focused, some mobile browsers in some cases zoom in
+    			// It looks not nice, so we disable it:
+    			callbacks: {
+    				beforeOpen: function() {
+    					if($(window).width() < 700) {
+    						this.st.focus = false;
+    					} else {
+    						this.st.focus = '#name';
+    					}
+    				}
+    			}
+    		});
+    	});
+    </script>
+
+  </body>
+</html>
