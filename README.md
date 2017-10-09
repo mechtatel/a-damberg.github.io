@@ -34,3 +34,6 @@
 
 [Урок 22](https://a-damberg.github.io/lesson_22/)-Вёрстка всплывающих окон на сайте
 
+[Урок 23](https://a-damberg.github.io/lesson_23/)-Табы и аккордион на сайте
+
+[Урок 24](https://a-damberg.github.io/lesson_24/)-Вёрстка блока с ценами
