@@ -37,3 +37,7 @@
 [Урок 23](https://a-damberg.github.io/lesson_23/)-Табы и аккордион на сайте
 
 [Урок 24](https://a-damberg.github.io/lesson_24/)-Вёрстка блока с ценами
+
+[Урок 25](https://a-damberg.github.io/lesson_25/)-Анимация на CSS3
+
+[Урок 26](https://a-damberg.github.io/lesson_26/)-Вёрстка блока с отзывами
