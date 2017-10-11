@@ -1,0 +1,102 @@
+h1 {
+	font-size: 26px;
+	color: #03a4d9;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.main-header {
+	font-size: 24px;
+	color: #03a4d9;
+	margin-bottom: 30px;
+}
+.accordion-bg {
+	height: 600px;
+	background-color: #fff;
+	background: url(../img/bg.png) center center no-repeat;
+}
+.panel-group .panel {
+	
+}
+.panel-default>.panel-heading {	
+	background-color: #0bbaf0;
+	color: white;
+}
+
+.main-form {	
+	margin: 0 25px;
+	display: block;
+	  background-color: black;
+			padding: 4rem 5rem;
+			
+}
+
+.main-form-input {
+				display: block;				
+				width: 100%;
+				margin: 2rem 0;
+				border: 1px solid black;
+				border-radius: 5px;
+				padding: 1.5rem;
+			}
+			.checkbox {
+				display: inline-block;
+				color: white;
+				width: 12px;
+				height: 12px;
+			}
+			form {
+				display: block;
+			}
+			.main-form-btn {
+				position: absolute;
+				display: inline;
+				margin-bottom: 10px;
+				margin-left: 290px;
+				background-color: red;
+				padding: 10px;
+				border: none;
+				color: white;
+			}
+			.forget {
+				display: block;
+				color: red;
+				padding-bottom: 40px;
+			}
+			.tab-box {
+				width: 600px;
+				height: 380px;
+				border-radius: 5px;				
+				background-color: #03a4d9;
+			}
+			.tab-content {
+				padding-top: 25px;
+			}
+			.nav {
+				width: 600px;
+    padding-left: 25px;
+    margin-bottom: 0;
+    list-style: none;
+}
+.remind {
+	display: inline-block;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	padding: 0;
+	color: grey;
+} 
+
+.nav-tabs {
+	border: none;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	color: white;
+	background-color: #03a4d9;
+}
+.main-box {
+	position: relative;
+	margin-top: 200px;
+	margin-bottom: 200px;	
+	left: 25%;
+
+
+}
