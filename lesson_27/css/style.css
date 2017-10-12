@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+h1 {
+	font-size: 100px;
+}
+.section {
+	min-height: 100vh;
+	text-align: center;
+	width: 100%;
+	display: table;
+	ackground: url('../video/Tired_is_Happy.jpg') no-repeat center;
+	background-size: cover;
+	
+}
+.wrap-block {
+	display: table-cell;
+	vertical-align: middle;
+	color: #fff;
+}
