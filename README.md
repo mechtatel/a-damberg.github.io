@@ -42,4 +42,4 @@
 
 [Урок 26](https://a-damberg.github.io/lesson_26/)-Вёрстка блока с отзывами
 
-[Урок 27](https://a-damberg.github.io/lesson_26/)-Видео-фон на сайте
+[Урок 27](https://a-damberg.github.io/lesson_27/)-Видео-фон на сайте
