@@ -47,3 +47,5 @@
 [Урок 28](https://a-damberg.github.io/lesson_28/)-Доверстали блок с отзывами
 
 [Урок 29](https://a-damberg.github.io/lesson_29/)-Parallax
+
+[Урок 30](https://a-damberg.github.io/lesson_30/)-Верстаем схему работы и все включено
