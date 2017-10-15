@@ -49,3 +49,5 @@
 [Урок 29](https://a-damberg.github.io/lesson_29/)-Parallax
 
 [Урок 30](https://a-damberg.github.io/lesson_30/)-Верстаем схему работы и все включено
+
+[Урок 31](https://a-damberg.github.io/lesson_32/)-Гое карты для сайта
