@@ -1,10 +1,58 @@
 .color {
 	background-color: red;
 }
+h2 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+p {
+	margin: 0;
+}
 .main-text {
-	margin: 122px 0 122px 0;
-	padding: 50px;
 	
-	font-size: 20px;
+	font-size: 18px;
 	color: white;
 }
+.main-map {
+	z-index: 1;
+	position: absolute;
+	padding: 70px;
+	margin-left: 410px;
+	width: 385px;
+	height: 400px;
+	background-color: red;
+}
+.logo-nav {
+	position: relative;
+	display: inline-block;
+	margin-left: 230px;
+}
+.logo {		
+	display: inline-block;
+	padding: 1.5rem;	
+	margin-left: 70px;
+	font-size: 13px;	
+	line-height: 1.5;
+	
+}
+.logo1 {		
+	display: inline-block;
+	padding: 1.5rem;	
+	margin-left: 70px;
+	font-size: 13px;
+	font-weight: 900;
+	line-height: 1.5;
+	
+}
+img {
+	position: absolute;
+	padding-top: 1rem;
+
+}
+.phone {
+	font-size: 16px;
+	font-weight: 900;
+}
+// .main-nav {
+// 	height: 100px;
+// }
