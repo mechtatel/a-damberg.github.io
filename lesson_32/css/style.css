@@ -1,0 +1,10 @@
+.color {
+	background-color: red;
+}
+.main-text {
+	margin: 122px 0 122px 0;
+	padding: 50px;
+	
+	font-size: 20px;
+	color: white;
+}
