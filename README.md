@@ -51,3 +51,5 @@
 [Урок 30](https://a-damberg.github.io/lesson_30/)-Верстаем схему работы и все включено
 
 [Урок 31](https://a-damberg.github.io/lesson_32/)-Гое карты для сайта
+
+[Урок 32](https://a-damberg.github.io/lesson_31/)-Верстаем блок "Развеиваем сомнения"
